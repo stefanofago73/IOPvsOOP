@@ -1,7 +1,7 @@
 ## IOP vs OOP ##
 
-In the Working Software Conference 2019(https://www.agilemovement.it/workingsoftware/schedule.html),</br> 
-I've seen the speech of  Claudio Pattarello: IF Oriented vs Object Oriented.</br>
+In the **Working Software Conference 2019**(https://www.agilemovement.it/workingsoftware/schedule.html),</br> 
+I've seen the speech of  **Claudio Pattarello**: IF Oriented vs Object Oriented.</br>
 The idea is to show the IF/Catch/Other abuse and how to use alternative patterns </br>
 to have a more Object Oriented version.</br>
 
@@ -23,7 +23,7 @@ you're welcome!</br>
    intrinsic properties of a model or of a computation</br>
   
 
-2. avoid the IF/SWiTCH on the enumeration thanks to the polymorphism</br>
+2. avoid the IF/SWITCH on the enumeration thanks to the polymorphism</br>
    and with the Visitor Pattern</br>
 
 
