@@ -1,6 +1,6 @@
 ## IOP vs OOP ##
 
-In the **Working Software Conference 2019**(https://www.agilemovement.it/workingsoftware/schedule.html),</br> 
+In the **Working Software Conference 2019** (https://www.agilemovement.it/workingsoftware/schedule.html),</br> 
 I've seen the speech of  **Claudio Pattarello**: IF Oriented vs Object Oriented.</br>
 The idea is to show the IF/Catch/Other abuse and how to use alternative patterns </br>
 to have a more Object Oriented version.</br>
@@ -14,6 +14,8 @@ to the original version (so, my excuses for some estetics).</br>
 If you want to contribute, enriching this repository whit other solutions</br>
 without modifing the original code (so separate packages and added tests),   </br>
 you're welcome!</br>
+
+Thanks to **Claudio Pattarello** (https://www.agileday.it/front/speakers/claudio-pattarello/)
 
 
 ### IDEAs PRESENTED ###
